@@ -22,3 +22,4 @@
 - Redstone will be based off of java, so bedrock based redstone will not work.  Java based redstone will work across platform, since redstone logic is handeled server side.  
 - Players will see your minecraft Java skin, regardless of what your bedrock skin is. 
 - If you have an Optifine Cape, all players using bedrock will see it, and players using Optifine will see it. 
+- Xbox achievements are disabled.
