@@ -1,12 +1,12 @@
 # Join the LiveTL minecraft server with a bedrock client!
 
-0. Mote that console versions, cannot join non-offical servers. There is a [workaround](https://github.com/Pugmatt/BedrockConnect#hosting-your-own-serverlist-server) if you have some technical knowledge though.
+0. Note that console versions, cannot join non-offical servers. There is a [workaround](https://github.com/Pugmatt/BedrockConnect#hosting-your-own-serverlist-server) if you have some technical knowledge though.
 1. Get a mojang (or microsoft) account that has a legitimate version of Minecraft Java. No, it cannot be a pirated version. Sorry about that. 
 2. Launch minecraft, and click (or tap) on play, and navigate over to the servers tab. 
 3. Scroll to the bottom of the server list, and click on "Add Server" (if this button does not appear, your minecraft client does not support non-offical servers. Sorry about that)
 4. Enter a server name.  It can be whatever you want.
 5. Enter our server address: ggrks.moe
-6. Peave the port as 19132.  If the port is not 19132, change it to 19132.
+6. Leave the port as 19132.  If the port is not 19132, change it to 19132.
 7. Click on "Save"
 8. Click on the server that we just added, then click on "Join Server"
 9. You will be asked to login.  First, choose wether you want to log in with a mojang or microsoft account. If you don't know, choose mojang. 
