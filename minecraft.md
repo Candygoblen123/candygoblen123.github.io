@@ -15,3 +15,8 @@
 12. You should be dropped into the world. Have fun!
 
 ### Other notes
+
+- We use 1.16 combat across platforms, so be prepared to start having a cooldown while in combat. 
+- Your save data will sync across platform, meaning that you can play on the java edition, and then pick up where you left off on bedrock. 
+- You can use your offhand! To switch an item to your offhand on bedrock, simply use any emote. (because of this emotes will not play, even on other bedrock clients)
+- Redstone will be based off of java, so bedrock based redstone will not work.  Java based redstone will work across platform, since redstone logic is handeled server side.  
