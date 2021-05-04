@@ -1,6 +1,6 @@
 # Join the LiveTL minecraft server with a bedrock client!
 
-0. Mote that console versions, cannot join non-offical servers. There is a [workaround](https://github.com/valknight/MCBedrockDNSGuide) if you have some technical knowledge though.
+0. Mote that console versions, cannot join non-offical servers. There is a [workaround](https://github.com/Pugmatt/BedrockConnect#hosting-your-own-serverlist-server) if you have some technical knowledge though.
 1. Get a mojang (or microsoft) account that has a legitimate version of Minecraft Java. No, it cannot be a pirated version. Sorry about that. 
 2. Launch minecraft, and click (or tap) on play, and navigate over to the servers tab. 
 3. Scroll to the bottom of the server list, and click on "Add Server" (if this button does not appear, your minecraft client does not support non-offical servers. Sorry about that)
